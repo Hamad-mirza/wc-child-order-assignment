@@ -3,7 +3,7 @@
  * Plugin Name: WC Child Order Assignment
  * Description: Assign WooCommerce orders to children created via WC Child Subscription Manager.
  * Version: 1.1.0
-Author: <a href="https://mrhammad.com">Muhammad Hamad</a> at <a href="https://innovateksol.com">Innovatek Solutions</a>
+Author: <a href="https://mrhammad.com">Muhammad Hamad</a>
 Author URI: https://mrhammad.com
 Plugin URI: https://github.com/Hamad-mirza/
  */
