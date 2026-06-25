@@ -2,7 +2,6 @@
 
 **Version:** 1.1.0  
 **Author:** Muhammad Hamad  
-**Company:** Innovatek Solutions
 
 Assign WooCommerce orders to children created via **WC Child Subscription Manager**. This plugin adds a child selection field during checkout, allowing parents to associate each order with one of their registered children.
 
